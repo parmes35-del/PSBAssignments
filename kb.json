@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific"
+    },
+    {
+        "question": "What chemical element has the symbol 'O'?",
+        "options": ["Gold", "Oxygen", "Iron", "Silver"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Leo Tolstoy"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["100°C", "90°C", "80°C", "120°C"],
+        "answer": "100°C"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Dollar", "Euro"],
+        "answer": "Yen"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the largest continent?",
+        "options": ["Africa", "Asia", "Europe", "North America"],
+        "answer": "Asia"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Pepper", "Avocado", "Onion"],
+        "answer": "Avocado"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Diamond", "Iron", "Platinum"],
+        "answer": "Diamond"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the square root of 16?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "4"
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": "Canberra"
+    },
+    {
+        "question": "How many colors are in a rainbow?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "In what year did the Titanic sink?",
+        "options": ["1912", "1905", "1920", "1898"],
+        "answer": "1912"
+    },
+    {
+        "question": "What is the freezing point of water?",
+        "options": ["0°C", "32°F", "100°C", "212°F"],
+        "answer": "0°C"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "Korea"],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which is the smallest country in the world?",
+        "options": ["Monaco", "Malta", "Vatican City", "San Marino"],
+        "answer": "Vatican City"
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "options": ["Spanish", "English", "Portuguese", "French"],
+        "answer": "Portuguese"
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "options": ["George Orwell", "Aldous Huxley", "F. Scott Fitzgerald", "Ernest Hemingway"],
+        "answer": "George Orwell"
+    },
+    {
+        "question": "What is the process of photosynthesis?",
+        "options": ["Conversion of light into food", "Conversion of food into energy", "Conversion of water into oxygen", "Conversion of carbon monoxide into oxygen"],
+        "answer": "Conversion of light into food"
+    },
+    {
+        "question": "Who is known as the father of modern physics?",
+        "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "Which element does 'O' represent in the periodic table?",
+        "options": ["Gold", "Oxygen", "Osmium", "Hydrogen"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "In which year did the first man land on the moon?",
+        "options": ["1965", "1969", "1972", "1975"],
+        "answer": "1969"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+        "answer": "Cairo"
+    },
+    {
+        "question": "Which is the largest organ in the human body?",
+        "options": ["Heart", "Liver", "Skin", "Lungs"],
+        "answer": "Skin"
+    },
+    {
+        "question": "How many continents are there?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+    },
+    {
+        "question": "What is the main language spoken in China?",
+        "options": ["Cantonese", "Mandarin", "Shanghainese", "English"],
+        "answer": "Mandarin"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "NaCl", "O2"],
+        "answer": "H2O"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "What is the main currency used in the United States?",
+        "options": ["Dollar", "Euro", "Pound", "Yen"],
+        "answer": "Dollar"
+    },
+    {
+        "question": "Which fictional character is known for his red cape and flying abilities?",
+        "options": ["Batman", "Spider-Man", "Superman", "Iron Man"],
+        "answer": "Superman"
+    },
+    {
+        "question": "What is the most commonly spoken language in the world?",
+        "options": ["English", "Mandarin", "Spanish", "Hindi"],
+        "answer": "Mandarin"
+    },
+    {
+        "question": "Which planet is known for its rings?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": ["Rome", "Florence", "Milan", "Venice"],
+        "answer": "Rome"
+    },
+    {
+        "question": "What gas do humans breathe in?",
+        "options": ["Oxygen", "Carbon Dioxide", "Helium", "Nitrogen"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Which country is home to the kangaroo?",
+        "options": ["Australia", "New Zealand", "USA", "Canada"],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "options": ["Burj Khalifa", "Shanghai Tower", "One World Trade Center", "Taipei 101"],
+        "answer": "Burj Khalifa"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Joseph Lister"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the primary function of red blood cells?",
+        "options": ["Fight infections", "Carry oxygen", "Clot blood", "Remove waste"],
+        "answer": "Carry oxygen"
+    },
+    {
+        "question": "Which country invented tea?",
+        "options": ["India", "China", "England", "Japan"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "options": ["0°F", "32°F", "100°F", "212°F"],
+        "answer": "32°F"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+        "answer": "Antarctic"
+    },
+    {
+        "question": "Which country is known for the Eiffel Tower?",
+        "options": ["France", "Germany", "Spain", "Italy"],
+        "answer": "France"
+    },
+    {
+        "question": "What year did World War II end?",
+        "options": ["1945", "1944", "1939", "1950"],
+        "answer": "1945"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the process of converting sugar to alcohol called?",
+        "options": ["Fermentation", "Photosynthesis", "Digestion", "Respiration"],
+        "answer": "Fermentation"
+    },
+    {
+        "question": "Which scientist is known for the laws of motion?",
+        "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "What is the currency of the European Union?",
+        "options": ["Pound", "Dollar", "Euro", "Franc"],
+        "answer": "Euro"
+    },
+    {
+        "question": "What is the term for a shape with five sides?",
+        "options": ["Triangle", "Rectangle", "Pentagon", "Hexagon"],
+        "answer": "Pentagon"
+    },
+    {
+        "question": "Who is the author of 'Harry Potter'?",
+        "options": ["J.R.R. Tolkien", "J.K. Rowling", "Stephen King", "Agatha Christie"],
+        "answer": "J.K. Rowling"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+        "answer": "Brasília"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Pb", "Fe"],
+        "answer": "Au"
+    },
+    {
+        "question": "Which instrument is known as the king of instruments?",
+        "options": ["Piano", "Guitar", "Violin", "Organ"],
+        "answer": "Organ"
+    },
+    {
+        "question": "What is the primary source of energy for the Earth?",
+        "options": ["The Moon", "The Sun", "The Wind", "Water"],
+        "answer": "The Sun"
+    },
+    {
+        "question": "In which country would you find the Great Pyramid of Giza?",
+        "options": ["Italy", "Greece", "Egypt", "Mexico"],
+        "answer": "Egypt"
+    },
+    {
+        "question": "How many bones are in the adult human body?",
+        "options": ["206", "205", "210", "215"],
+        "answer": "206"
+    },
+    {
+        "question": "What is the name of the longest river in North America?",
+        "options": ["Missouri River", "Mississippi River", "Rio Grande", "Colorado River"],
+        "answer": "Missouri River"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "answer": "George Washington"
+    },
+    {
+        "question": "What is the main ingredient of hummus?",
+        "options": ["Chickpeas", "Lentils", "Beans", "Peas"],
+        "answer": "Chickpeas"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": ["Moscow", "St. Petersburg", "Kiev", "Warsaw"],
+        "answer": "Moscow"
+    },
+    {
+        "question": "What is the largest internal organ in the human body?",
+        "options": ["Heart", "Liver", "Lungs", "Kidney"],
+        "answer": "Liver"
+    },
+    {
+        "question": "What color is a stop sign?",
+        "options": ["Yellow", "Green", "Red", "Blue"],
+        "answer": "Red"
+    },
+    {
+        "question": "What is the primary gas found in the air we breathe?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+        "answer": "New Delhi"
+    },
+    {
+        "question": "What is the most spoken language in the world?",
+        "options": ["English", "Mandarin", "Spanish", "Hindi"],
+        "answer": "Mandarin"
+    },
+    {
+        "question": "Which famous scientist developed the laws of gravity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "options": ["Leonardo da Vinci", "Vincent Van Gogh", "Michelangelo", "Pablo Picasso"],
+        "answer": "Michelangelo"
+    },
+    {
+        "question": "What is the capital city of Turkey?",
+        "options": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+        "answer": "Ankara"
+    },
+    {
+        "question": "Which fruit is known as the king of fruits?",
+        "options": ["Mango", "Apple", "Durian", "Banana"],
+        "answer": "Durian"
+    },
+    {
+        "question": "What is the hardest mineral?",
+        "options": ["Quartz", "Diamond", "Ruby", "Sapphire"],
+        "answer": "Diamond"
+    },
+    {
+        "question": "What is the study of living organisms called?",
+        "options": ["Zoology", "Biology", "Botany", "Ecology"],
+        "answer": "Biology"
+    }
+]
